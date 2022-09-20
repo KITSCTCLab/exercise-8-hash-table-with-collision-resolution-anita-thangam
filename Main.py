@@ -1,7 +1,7 @@
 import re
 
 def display_hash(hashtable) -> None:
-	for keyvalue in range(len(Hashtable));
+	for keyvalue in range(len(Hashtable)):
 	t=Hastable[Keyvalue]
 	print(Keyvalue, end='')
 	for element in t:
