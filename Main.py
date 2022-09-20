@@ -4,9 +4,9 @@ def display_hash(hashtable) -> None:
 	for keyvalue in range(len(Hashtable));
 	t=Hastable[Keyvalue]
 	print(Keyvalue, end='')
-	for element in t
-	print(:-->",element end=" ")
-	      print()
+	for element in t:
+		print(:-->",element end=" ")
+		      print()
 
 def Hashing(keyvalue) -> int:
 	return keyvalue % len(HashTable)
